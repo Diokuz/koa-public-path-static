@@ -1,0 +1,16 @@
+{
+  "name": "koa-public-path-static",
+  "version": "1.0.0",
+  "description": "koa static server with configurable publickPath",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6.0.0",
+    "yarn": ">=0.18.1"
+  },
+  "repository": "https://github.com/Diokuz/koa-public-path-static",
+  "author": "Diokuz <diokuz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa-send": "^4.1.0"
+  }
+}
